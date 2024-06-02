@@ -1,7 +1,0 @@
-authors = ["David C Cavalcante <davcavalcante@proton.me>","Takk™ Innovate Studio <say@takk.ag>"]
-description = "Designed to replicate the classic CRT monitors, black background with vibrant amber text in the dark, while the light has a soft amber background for contrast."
-id = "amber-monochrome-monitor"
-name = "Amber Monochrome Monitor CRT Phosphor"
-repository = "https://github.com/takk8is/amber-monochrome-monitor-crt-phosphor-theme-for-zed"
-schema_version = 1
-version = "0.1.3"
