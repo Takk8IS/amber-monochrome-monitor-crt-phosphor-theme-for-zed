@@ -1,3 +1,5 @@
+![Amber Monochrome Monitor CRT Phosphor](./assets/icon.jpg)
+
 # Amber Monochrome Monitor CRT Phosphor Theme for Zed
 
 The "Amber Monochrome Monitor CRT Phosphor" theme brings the nostalgic essence of vintage amber phosphor monitors to your Zed editor. This theme is crafted to offer a unique and immersive visual experience, capturing the original charm of early computing displays. Available in both dark and light versions, the Amber Monochrome Monitor CRT Phosphor Theme transforms your coding environment with its distinct amber-on-black and amber-on-light-amber aesthetics.
