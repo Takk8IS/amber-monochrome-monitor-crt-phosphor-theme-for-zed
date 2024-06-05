@@ -1,4 +1,4 @@
-![Amber Monochrome Monitor CRT Phosphor](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/assets/icon.jpg)
+![Amber Monochrome Monitor CRT Phosphor](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/icon.jpg)
 
 # Amber Monochrome Monitor CRT Phosphor Theme for Zed
 
@@ -10,43 +10,43 @@ The theme includes eight distinct variants, each designed to emulate specific ty
 
 ### Amber Monochrome Monitor CRT Phosphor Dark I
 
-![Amber Monochrome Monitor CRT Phosphor Dark I](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/assets/screenshot-dark-i.png)
+![Amber Monochrome Monitor CRT Phosphor Dark I](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-i.png)
 
 ### Amber Monochrome Monitor CRT Phosphor Dark II
 
-![Amber Monochrome Monitor CRT Phosphor Dark II](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/assets/screenshot-dark-ii.png)
+![Amber Monochrome Monitor CRT Phosphor Dark II](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-ii.png)
 
 ### Amber Monochrome Monitor CRT Phosphor Dark III
 
-![Amber Monochrome Monitor CRT Phosphor Dark III](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/assets/screenshot-dark-iii.png)
+![Amber Monochrome Monitor CRT Phosphor Dark III](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-iii.png)
 
 ### Amber Monochrome Monitor CRT Phosphor Dark P3
 
-![Amber Monochrome Monitor CRT Phosphor Dark P3](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/assets/screenshot-dark-p3.png)
+![Amber Monochrome Monitor CRT Phosphor Dark P3](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-p3.png)
 
 ### Amber Monochrome Monitor CRT Phosphor Dark P12
 
-![Amber Monochrome Monitor CRT Phosphor Dark P12](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/assets/screenshot-dark-p12.png)
+![Amber Monochrome Monitor CRT Phosphor Dark P12](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-p12.png)
 
 ### Amber Monochrome Monitor CRT Phosphor Dark P19
 
-![Amber Monochrome Monitor CRT Phosphor Dark P19](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/assets/screenshot-dark-p19.png)
+![Amber Monochrome Monitor CRT Phosphor Dark P19](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-p19.png)
 
 ### Amber Monochrome Monitor CRT Phosphor Dark P25
 
-![Amber Monochrome Monitor CRT Phosphor Dark P25](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/assets/screenshot-dark-p25.png)
+![Amber Monochrome Monitor CRT Phosphor Dark P25](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-p25.png)
 
 ### Amber Monochrome Monitor CRT Phosphor Dark P26
 
-![Amber Monochrome Monitor CRT Phosphor Dark P26](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/assets/screenshot-dark-p26.png)
+![Amber Monochrome Monitor CRT Phosphor Dark P26](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-p26.png)
 
 ### Amber Monochrome Monitor CRT Phosphor Dark P33
 
-![Amber Monochrome Monitor CRT Phosphor Dark P33](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/assets/screenshot-dark-p33.png)
+![Amber Monochrome Monitor CRT Phosphor Dark P33](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-p33.png)
 
 ### Amber Monochrome Monitor CRT Phosphor Dark P38
 
-![Amber Monochrome Monitor CRT Phosphor Dark P38](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/assets/screenshot-dark-p38.png)
+![Amber Monochrome Monitor CRT Phosphor Dark P38](https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed/blob/main/assets/screenshot-dark-p38.png)
 
 ## Theme Overview
 
